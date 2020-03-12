@@ -106,10 +106,8 @@ As a result of that we will not (at this time) have a textbook. I will recommend
   - Ding - 7:20
   - Qiu - 7:30
   - Miller - 7:40
-  - Loh - 7:50
-  - Vadnere - 8:00
-  - Deng - 8:10
-  - Mhatre - 8:20
+  - Vadnere - 7:50
+  - Mhatre - 8:00
 - [ ] 12-Mar: **Individal assignment 3 due**
 - [ ] 12-Mar: **Final exam available**
 
