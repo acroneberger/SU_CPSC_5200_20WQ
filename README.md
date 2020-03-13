@@ -95,7 +95,6 @@ As a result of that we will not (at this time) have a textbook. I will recommend
   - Team 9: Niu; Dong; Fan; Li - 8:05 pm
   - Team 10: Croneberger; Tamboli; Zheng; Zainab - 8:20 pm
 - [ ] 12-Mar: **In-class individual presentations and demonstrations**
-  - Wang, Y - 6:00
   - Dandane - 6:10
   - Dsouza - 6:20
   - Nusitchaiyakan - 6:30
@@ -113,7 +112,7 @@ As a result of that we will not (at this time) have a textbook. I will recommend
 
 **Week 11**
 
-- [ ] 17-Mar: **Final exam due by 6pm, late exams will not be accepted**
+- [ ] 17-Mar: **Final exam due by 12 noon, late exams will not be accepted**
 
 ## List of topics / schedule (tentative)
 
